@@ -11,7 +11,7 @@
   <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=@ComputerWhiz_&label=Twitter&color=1DA1F2">
 </a>
 <a href="https://mozillians.org/u/ComputerWhiz/" target="_blank">
-  <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=medium&message=ComputerWhiz&label=Mozillians&color=000000">
+  <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=mozilla&message=ComputerWhiz&label=Mozillians&color=000000">
 </a>
 <a href="https://getpocket.com/@e05A9g99d344cT83aXp93fIp4eT5dl0x035w94P604Of1cndS8177c25l6axEb61" target="_blank">
   <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=pocket&message=ComputerWhiz&label=Pocket&color=EF3F56">
