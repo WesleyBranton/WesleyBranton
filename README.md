@@ -2,7 +2,7 @@
   <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=wesleybranton.com&label=Website&color=181717">
 </a>
 <a href="https://www.linkedin.com/in/wesleybranton/" target="_blank">
-  <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=medium&message=wesleybranton&label=LinkedIn&color=0077B5">
+  <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=wesleybranton&label=LinkedIn&color=0077B5">
 </a>
 <a href="https://medium.com/@wbranton" target="_blank">
   <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=medium&message=@wbranton&label=Medium&color=12100E">
